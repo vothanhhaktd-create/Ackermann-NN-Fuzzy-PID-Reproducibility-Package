@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Structured Neural-Supervised Fuzzy-PID Steering Controller for Ackermann Vehicles"
+message: "If you use this code, please cite the associated manuscript."
+authors:
+  - family-names: "Vo"
+    given-names: "Thanh Ha"
+  - family-names: "Nguyen"
+    given-names: "Minh Huy"
+  - family-names: "Nguyen"
+    given-names: "Van Hai"
+  - family-names: "Nguyen"
+    given-names: "Tam Thanh"
+  - family-names: "Vo"
+    given-names: "Quang Vinh"
+year: 2026
+license: MIT
+repository-code: "https://github.com/YOUR_USERNAME/ackermann-nn-fuzzy-pid"
